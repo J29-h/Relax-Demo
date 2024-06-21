@@ -1,0 +1,7 @@
+**Confirmation**
+
+I’m “ ” and I accept this confirmation to make a booking for flight number * * from City: to City: , Date \ . I fully accept all the charges and extra payment for this flight, and if I missed, delayed, or canceled the booking I can’t ask the flight staff for a refund or my money back.
+
+Signature: “”.
+
+** Write Yes/y to accept or write No/n to cancel **
